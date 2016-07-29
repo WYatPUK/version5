@@ -174,10 +174,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>4</ColumnNumber>
+      <ColumnNumber>36</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>115</TopLine>
-      <CurrentLine>140</CurrentLine>
+      <TopLine>118</TopLine>
+      <CurrentLine>118</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\peripheral_main.c</PathWithFileName>
       <FilenameWithoutPath>peripheral_main.c</FilenameWithoutPath>
@@ -265,6 +265,20 @@
       <bDave2>0</bDave2>
       <PathWithFileName>.\Communication_Send_Central0601.h</PathWithFileName>
       <FilenameWithoutPath>Communication_Send_Central0601.h</FilenameWithoutPath>
+    </File>
+    <File>
+      <GroupNumber>1</GroupNumber>
+      <FileNumber>0</FileNumber>
+      <FileType>5</FileType>
+      <tvExp>0</tvExp>
+      <Focus>0</Focus>
+      <ColumnNumber>0</ColumnNumber>
+      <tvExpOptDlg>0</tvExpOptDlg>
+      <TopLine>0</TopLine>
+      <CurrentLine>0</CurrentLine>
+      <bDave2>0</bDave2>
+      <PathWithFileName>.\Find_Struct_Resistance0729.h</PathWithFileName>
+      <FilenameWithoutPath>Find_Struct_Resistance0729.h</FilenameWithoutPath>
     </File>
   </Group>
 
@@ -1613,9 +1627,9 @@
       <Documents>
         <Doc>
           <Name>.\peripheral_main.c</Name>
-          <ColumnNumber>4</ColumnNumber>
-          <TopLine>115</TopLine>
-          <CurrentLine>140</CurrentLine>
+          <ColumnNumber>36</ColumnNumber>
+          <TopLine>118</TopLine>
+          <CurrentLine>118</CurrentLine>
         </Doc>
         <Doc>
           <Name>COMMUNICATION_RECEIVE_CENTRAL0601.H</Name>
@@ -1624,7 +1638,7 @@
           <CurrentLine>1</CurrentLine>
         </Doc>
         <Doc>
-          <Name>FIND_STRUCT.H</Name>
+          <Name>.\Find_Struct.h</Name>
           <ColumnNumber>47</ColumnNumber>
           <TopLine>280</TopLine>
           <CurrentLine>280</CurrentLine>
@@ -1634,6 +1648,12 @@
           <ColumnNumber>96</ColumnNumber>
           <TopLine>32</TopLine>
           <CurrentLine>51</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>FIND_STRUCT_RESISTANCE0729.H</Name>
+          <ColumnNumber>0</ColumnNumber>
+          <TopLine>391</TopLine>
+          <CurrentLine>391</CurrentLine>
         </Doc>
       </Documents>
     </MDIGroup>

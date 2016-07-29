@@ -288,11 +288,13 @@ void DoString()
 				return;
 			}
 			//do something
+			//Go Start
 			if (Send_GoStart_Port(mPort)!=Send_Finished)
 			{
 				SendString0(Serial_Back_GoStartWrong);
 				return;
 			}
+			//Send Resistance Num
 			SendOrder = CharToHex(Str[i+4],Str[i+5]);
 			SendData = (CharToHex(Str[i],Str[i+1])<<8) | CharToHex(Str[i+2],Str[i+3]);
 			if (SendM_Port(mPort)!=Send_Finished)
@@ -300,7 +302,7 @@ void DoString()
 				SendString0(Serial_Back_SendWrong);
 				return;
 			}
-			for (i=0; i<1000 && Receive_Port[0]() == 1; i++); //等待一段时间，应该不用太长，太长也只能自认倒霉了，因为之前已经对码成功
+			for (i=0; i<1000 && Receive_Port[mPort]() == 1; i++); //等待一段时间，应该不用太长，太长也只能自认倒霉了，因为之前已经对码成功
 			if (i==1000)
 			{
 				SendString0(Serial_Back_NoAnswer);
@@ -499,6 +501,9 @@ void DoUSART(unsigned char receiveData)
 {
 	switch (receiveData)
 	{							 
+		case '#': //标志了输入的开始
+			Strlen = 0;
+			break;
 		case '$': //刷新Str 且 结束Str输入
 			if (Strlen != 0)
 			{

@@ -174,10 +174,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>36</ColumnNumber>
+      <ColumnNumber>15</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
       <TopLine>118</TopLine>
-      <CurrentLine>118</CurrentLine>
+      <CurrentLine>140</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\peripheral_main.c</PathWithFileName>
       <FilenameWithoutPath>peripheral_main.c</FilenameWithoutPath>
@@ -268,7 +268,7 @@
     </File>
     <File>
       <GroupNumber>1</GroupNumber>
-      <FileNumber>0</FileNumber>
+      <FileNumber>9</FileNumber>
       <FileType>5</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
@@ -1627,9 +1627,9 @@
       <Documents>
         <Doc>
           <Name>.\peripheral_main.c</Name>
-          <ColumnNumber>36</ColumnNumber>
+          <ColumnNumber>15</ColumnNumber>
           <TopLine>118</TopLine>
-          <CurrentLine>118</CurrentLine>
+          <CurrentLine>140</CurrentLine>
         </Doc>
         <Doc>
           <Name>COMMUNICATION_RECEIVE_CENTRAL0601.H</Name>
