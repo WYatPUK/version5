@@ -1,0 +1,510 @@
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?CLEARLINK?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LINK?PERIPHERAL_MAIN
+Program Size: data=9.0 xdata=49 code=3145
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+Program Size: data=9.0 xdata=49 code=2900
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?DELAYSELFCHECK?PERIPHERAL_MAIN
+Program Size: data=9.0 xdata=47 code=2696
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+PERIPHERAL_MAIN.C(121): warning C206: 'ClearLink': missing function-prototype
+PERIPHERAL_MAIN.C(131): warning C206: 'Link': missing function-prototype
+PERIPHERAL_MAIN.C(131): error C267: 'Link': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+Program Size: data=9.0 xdata=51 code=3443
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=51 code=3443
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_FIND_NEARIST?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_EXCUTE?PERIPHERAL_MAIN
+Program Size: data=9.0 xdata=1087 code=6418
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+Program Size: data=9.0 xdata=1011 code=4411
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET0?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET1?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET2?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET3?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET4?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET5?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET6?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET7?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET8?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET9?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETA?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETB?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETC?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETD?PERIPHERAL_MAIN
+Program Size: data=9.0 xdata=1011 code=4495
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 14 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET0?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET1?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET2?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET3?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET4?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET5?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET6?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET7?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET8?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET9?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETA?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETB?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETC?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETD?PERIPHERAL_MAIN
+Program Size: data=9.0 xdata=1011 code=4495
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 14 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+FIND_STRUCT.H(341): error C141: syntax error near ';'
+COMMUNICATION_RECEIVE_CENTRAL0601.H(35): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(39): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(39): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(40): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(42): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(42): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(46): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(46): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(49): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(49): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(50): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(52): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(52): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(58): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(74): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(79): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(95): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(98): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(116): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(118): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(118): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(119): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(121): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(121): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(125): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(125): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(128): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(128): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(12): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(27): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(29): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(29): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(33): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(33): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(38): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(38): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(40): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(42): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(42): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(47): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(47): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(56): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(56): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(60): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(60): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(65): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(67): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(67): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(71): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(71): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(76): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(76): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(78): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(80): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(80): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(83): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(83): error C208: 'function': too many actual parameters
+PERIPHERAL_MAIN.C(41): error C211: call not to a function
+Target not created
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?R_CLEARALL?PERIPHERAL_MAIN
+Program Size: data=9.0 xdata=1055 code=4616
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?R_CLEARALL?PERIPHERAL_MAIN
+Program Size: data=9.0 xdata=1055 code=4616
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?R_CLEARALL?PERIPHERAL_MAIN
+Program Size: data=9.0 xdata=1055 code=4616
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+Program Size: data=9.0 xdata=1053 code=4541
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET0?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET1?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET2?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET3?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET4?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET5?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET6?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET7?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET8?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SET9?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETA?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETB?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETC?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETD?PERIPHERAL_MAIN
+Program Size: data=9.0 xdata=1011 code=4495
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 14 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+Program Size: data=9.0 xdata=1053 code=4541
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=1053 code=4541
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+FIND_STRUCT.H(330): error C163: 'SetFoot': unknown array size
+COMMUNICATION_RECEIVE_CENTRAL0601.H(35): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(39): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(39): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(40): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(42): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(42): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(46): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(46): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(49): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(49): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(50): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(52): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(52): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(58): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(74): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(79): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(95): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(98): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(116): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(118): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(118): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(119): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(121): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(121): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(125): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(125): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(128): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(128): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(12): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(27): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(29): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(29): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(33): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(33): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(38): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(38): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(40): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(42): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(42): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(47): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(47): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(56): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(56): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(60): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(60): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(65): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(67): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(67): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(71): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(71): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(76): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(76): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(78): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(80): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(80): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(83): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(83): error C208: 'function': too many actual parameters
+PERIPHERAL_MAIN.C(41): error C211: call not to a function
+Target not created
+Build target 'Target 1'
+compiling peripheral_main.c...
+FIND_STRUCT.H(330): error C163: 'SetFoot': unknown array size
+COMMUNICATION_RECEIVE_CENTRAL0601.H(35): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(39): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(39): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(40): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(42): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(42): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(46): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(46): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(49): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(49): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(50): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(52): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(52): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(58): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(74): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(79): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(95): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(98): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(116): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(118): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(118): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(119): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(121): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(121): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(125): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(125): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(128): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(128): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(12): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(27): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(29): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(29): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(33): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(33): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(38): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(38): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(40): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(42): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(42): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(47): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(47): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(56): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(56): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(60): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(60): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(65): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(67): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(67): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(71): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(71): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(76): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(76): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(78): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(80): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(80): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(83): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(83): error C208: 'function': too many actual parameters
+PERIPHERAL_MAIN.C(41): error C211: call not to a function
+Target not created
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+Program Size: data=9.0 xdata=1053 code=4541
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=1053 code=4541
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+FIND_STRUCT.H(348): error C216: subscript on non-array or too many dimensions
+Target not created
+Build target 'Target 1'
+compiling peripheral_main.c...
+FIND_STRUCT.H(375): error C216: subscript on non-array or too many dimensions
+Target not created
+Build target 'Target 1'
+compiling peripheral_main.c...
+FIND_STRUCT.H(458): error C216: subscript on non-array or too many dimensions
+FIND_STRUCT.H(463): error C141: syntax error near '/'
+COMMUNICATION_RECEIVE_CENTRAL0601.H(35): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(39): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(39): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(40): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(42): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(42): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(46): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(46): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(49): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(49): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(50): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(52): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(52): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(58): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(74): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(79): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(95): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(98): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(116): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(118): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(118): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(119): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(121): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(121): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(125): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(125): error C208: 'function': too many actual parameters
+COMMUNICATION_RECEIVE_CENTRAL0601.H(128): error C211: call not to a function
+COMMUNICATION_RECEIVE_CENTRAL0601.H(128): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(12): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(27): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(29): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(29): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(33): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(33): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(38): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(38): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(40): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(42): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(42): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(47): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(47): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(56): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(56): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(60): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(60): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(65): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(67): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(67): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(71): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(71): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(76): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(76): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(78): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(80): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(80): error C208: 'function': too many actual parameters
+COMMUNICATION_SEND_CENTRAL0601.H(83): error C211: call not to a function
+COMMUNICATION_SEND_CENTRAL0601.H(83): error C208: 'function': too many actual parameters
+PERIPHERAL_MAIN.C(41): error C211: call not to a function
+Target not created
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_FIND_NEARIST?PERIPHERAL_MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_EXCUTE?PERIPHERAL_MAIN
+Program Size: data=9.0 xdata=1041 code=6387
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+Program Size: data=9.0 xdata=1015 code=6526
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+Program Size: data=9.0 xdata=1015 code=6526
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+Program Size: data=9.0 xdata=1015 code=6526
+creating hex file from "UUID1113"...
+"UUID1113" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+Program Size: data=9.0 xdata=1015 code=6526
+creating hex file from "UUID1114"...
+"UUID1114" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=1015 code=6526
+creating hex file from "UUID1114"...
+"UUID1114" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling peripheral_main.c...
+linking...
+Program Size: data=9.0 xdata=1015 code=6386
+creating hex file from "UUID1114"...
+"UUID1114" - 0 Error(s), 0 Warning(s).
